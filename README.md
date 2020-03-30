@@ -1,2 +1,2 @@
 # Java-Airport
-Airport project for schoolFlughafen
+Airport project for school
